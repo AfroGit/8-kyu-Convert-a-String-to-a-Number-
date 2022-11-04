@@ -10,6 +10,7 @@ Note: Don't worry, all inputs will be strings, and every string is a perfectly v
 
 
 function stringToNumber(str) {
-    // put your code here
+    
+  // put your code here
     return Number(str);
 }
